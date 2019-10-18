@@ -18,9 +18,9 @@ spring:
     static-locations: classpath:/static/
   #数据访问配置
 #  datasource:
-#    url: jdbc:mysql://47.102.213.169:3306/taobao_blog?CharacterEncoding=UTF8&useSSL=false
+#    url: jdbc:mysql://127.0.0.1:3306/taobao_blog?CharacterEncoding=UTF8&useSSL=false
 #    username: root
-#    password: 123456
+#    password: root
   jpa:
     database: mysql
     hibernate:
