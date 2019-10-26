@@ -1,5 +1,5 @@
-/** Created By Wuwenbin https://wuwenbin.me
- * mail to wuwenbinwork@163.com
+/** Created By wang-hai-cheng https://wang-hai-cheng.me
+ * mail to wang-hai-chengwork@163.com
 
  * if you use the code,  please do not delete the comment
  * 如果您使用了此代码，请勿删除此头部注释
