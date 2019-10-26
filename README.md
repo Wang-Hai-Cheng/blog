@@ -34,4 +34,6 @@ password:admin
 + 新建 Pull Request
   
 欢迎提交issues和pull request给我  
-email:wang-hai-cheng@foxmail.com
+email:wang-hai-cheng@foxmail.com  
+  
+项目还在持续更新中，可参考文件提交时间了解最近一次更新时间
