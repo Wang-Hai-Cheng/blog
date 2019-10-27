@@ -8,9 +8,9 @@
 + #### jquery
 + ## 后端
 + #### SpringBoot
-+ #### SpringDataJpa
++ #### Mybatis-plus
 + #### Thymeleaf
-+ #### druid-spring-boot-starter
+
 # 安装教程(quick start)
 + 导入sql文件到mysql数据库
 + 修改application-noteblogv4.properties && application.yml文件配置信息
