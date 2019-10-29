@@ -18,8 +18,8 @@ public class WebController {
 
     @GetMapping("/management/dashboard")
     public String toManagementDashboard(Model model){
-        model.addAttribute("data", dashboardService.calculateData());
-        model.addAttribute("c", dashboardService.findLatestComment());
+//        model.addAttribute("data", dashboardService.calculateData());
+//        model.addAttribute("c", dashboardService.findLatestComment());
 //        model.addAttribute("tableData", dashboardService.findTableStatistics());
         return "management/dashboard";
 
